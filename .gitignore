@@ -1,0 +1,13 @@
+.vscode
+node_modules
+bin
+obj
+target
+*.class
+*.jar
+*.log
+*.lock
+*.pyc
+*.pyo
+*.pyd
+__pycache__
